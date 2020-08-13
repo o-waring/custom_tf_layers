@@ -6,6 +6,9 @@
 
 LSTM Cell with layer normalization applied to features before gate activations
 
-**LayerNormRNNCell**
+**LayerNormRNNCell** [1]
 
 RNN Cell with layer normalization applied to features before output activation
+
+
+##### *[1] based on example from Hands-On Machine Learning by Aurélien Géron*
