@@ -1,6 +1,6 @@
 # custom_tf_layers
 
-***Author -- Oliver Waring***
+***Author - Oliver Waring***
 
 ### Custom Model Layers for Keras & Tensorflow 2.0
 
