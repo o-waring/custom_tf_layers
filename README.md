@@ -1,6 +1,6 @@
 # custom_tf_layers
 
-### CUSTOM MODEL LAYERS FOR KERAS & TENSORFLOW 2.0
+### Custom Model Layers for Keras & Tensorflow 2.0
 
 **LayerNormLSTMCell**
 
