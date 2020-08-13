@@ -2,10 +2,10 @@
 
 ### CUSTOM MODEL LAYERS FOR KERAS & TENSORFLOW 2.0
 
-**-- LayerNormLSTMCell --**
+**LayerNormLSTMCell**
 
 LSTM Cell with layer normalization applied to features before gate activations
 
-**-- LayerNormRNNCell --**
+**LayerNormRNNCell**
 
 RNN Cell with layer normalization applied to features before output activation
